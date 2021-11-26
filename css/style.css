@@ -1,0 +1,50 @@
+body{
+	
+}
+
+.card-body{
+	background-color: #030027;
+	margin: 20px 400px;
+	
+}
+.gp{
+	background-color: #151E3F;
+	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 2px;	
+}
+h2{
+	font-family: 
+	font-size:12px;
+	color:white;
+
+}
+h3{
+	color: lightgray;
+	font-size: 12px;
+}
+p{
+	color: white;
+
+}
+.btn-1{
+	margin-top: 20px;
+	margin-left: 50px;
+	width: 200px;
+	font-size: 12px;
+}
+#passwordLength{
+	width: 250px;
+	margin-left: 12px;
+}
+#password{
+	width: 250px;
+	margin-left: 12px;
+	height: 70px;
+	background-color: #151E3F;
+	color: white;
+	border-radius: 10px;
+}
+
+
+

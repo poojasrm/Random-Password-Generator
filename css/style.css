@@ -1,3 +1,8 @@
+body{
+	background-color: #f0fbff;
+}
+
+
 h2{
 	text-align: center;
 	font-size: 50px;
@@ -5,7 +10,7 @@ h2{
 	font-family: "Roboto Slab",serif;
 }
 p{
-	margin-left: 270px;
+	font-size: 20px;
 	color: #396EB0;
 	font-family: "Playfair Display",serif;
 }
@@ -15,7 +20,7 @@ h4{
 }
 #password{
 	width: 600px;
-	margin-left: 280px;
+	margin-left: 270px;
 	margin-top: -10px;
 	border: 2px solid #DADDFC;
 }
@@ -27,8 +32,8 @@ h4{
 
 }
 .settings{
-	width: 600px;
-	margin-left: 280px;
+	width: 1000px;
+	
 	padding: 20px;
 	margin-top: -10px;
 	border: 3px solid #DADDFC;
@@ -41,6 +46,14 @@ label{
 	font-weight: bold;
 	color: #66806A;
 	font-family: "Poppins",sans-serif;
+}
+.box{
+	margin-left: 100px;
+}
+.foot{
+	position: fixed;
+	bottom: 0;
+	
 }
 
 
